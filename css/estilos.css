@@ -1,0 +1,161 @@
+/* ------------------------- */
+/* Estilos Generales */
+/* ------------------------- */
+
+* {
+    box-sizing: border-box;
+    margin: 0; 
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+
+body { 
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.texto-naranja {
+    font-weight: 300;
+    color: #FCC830;
+}
+
+img{
+    max-width: 100%;
+ max-height: 100%;
+}
+
+.texto-blanco {
+    font-weight: 700;
+    color: #fff;
+}
+
+h2{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.texto-negro {
+	color: #000;
+}
+
+.center{
+    text-align: center;
+}
+
+
+/*fullpage*/
+#fp-nav ul li a span {
+    background-color: #FCC830;
+}
+/*nav*/
+.nav{
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 70;
+    width: 100%;
+    margin: 0;
+    padding: 10px 20px;
+}
+
+.nav li, 
+.nav a{
+display: inline-block;
+margin: 6px;
+text-decoration: none;
+text-transform: uppercase;
+font-family: 'Oswals', sans-serif;
+font-size: 4px;
+color: white;
+transition: .5s ease;
+}
+
+.nav li.active{
+    border-bottom: 2px solid #FCC830;
+} 
+/* header*/
+
+.header{
+    background-color: #000;
+}
+
+.header .titulo{
+    font-size:  60px;
+    text-transform: uppercase;
+}
+
+.header .parrafoInicio{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+
+.fp-controlArrow.fp-next,
+.fp-controlArrow.fp-prev{
+    top: 95%;
+
+}
+
+.fp-controlArrow.fp-prev{
+    left: 70%;
+}
+
+
+
+/**footer*/
+.footer .redes-sociales{
+    display: grid;
+    place-content: center;
+    margin: 0;
+    font-size: 40px;
+    flex-direction: column;
+    
+}
+
+.footer .redes-sociales a{
+    display: flex;
+    height: 70px;
+width: 170px;
+    background: #fff;
+    color: #000;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+    margin: 15px 10px;
+    
+}
+.footer .redes-sociales h3{
+    font-size: 20px;
+    color: #000;
+    margin-left: 40px;
+}
+.footer .redes-sociales i{
+    margin-right: 25px;
+    margin-left: 5px;
+}
+
+
+.video {
+    
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%;
+    }
+
+.yt{
+  color: red;  
+  padding-right: 2px;
+}
