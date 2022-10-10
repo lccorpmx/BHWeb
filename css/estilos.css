@@ -65,7 +65,9 @@ h2{
     margin: 0;
     padding: 10px 20px;
 }
-
+.icoblanco{
+    color: white;
+}
 .nav li, 
 .nav a{
 display: inline-block;
