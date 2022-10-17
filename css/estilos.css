@@ -161,3 +161,11 @@ width: 170px;
   color: red;  
   padding-right: 2px;
 }
+
+
+
+@media (min-width: 768px) {
+    .imagenPromo{
+        height:800px;
+    }
+}
