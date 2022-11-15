@@ -14,8 +14,12 @@ a {
 body { 
     font-family: 'Lato', sans-serif;
     font-size: 18px;
-    background-image: url("/fondo.png");
+    background-image: url("/texto.jpg");
     background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
 }
 
 h1, h2, h3, h4, h5, h6 {
