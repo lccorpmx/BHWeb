@@ -26,7 +26,10 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     margin-bottom: 0;
 }
-
+.btn{
+    display: block;
+    float: right;
+}
 .texto-naranja {
     font-weight: 300;
     color: #FCC830;
@@ -125,6 +128,7 @@ transition: .5s ease;
     margin: 0;
     font-size: 40px;
     flex-direction: column;
+    margin-top: 10px;
     
 }
 
@@ -139,18 +143,34 @@ transition: .5s ease;
     justify-content: center;
     border-radius: 100px;
     margin: 15px 10px;
-    
 }
+
 .footer .redes-sociales h3{
     font-size: 20px;
     color: #000;
     margin-left: 40px;
 }
+
+.iconox{
+    display: flex;
+    height: 60px;
+    width: 60px;
+    background: #fff;
+    color: #000;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 100px;  
+}
+
 .footer .redes-sociales i{
     margin-right: 25px;
     margin-left: 5px;
 }
-
+i{
+    text-align: center;
+}
 
 .video {
     
