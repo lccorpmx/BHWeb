@@ -15,7 +15,7 @@ var seccionesPagina = new fullpage('#fullpage',{
 	// ──────────────────────────────────────────────────
 		 navigation: true, // Muesta la barra de navegación.
 		 menu: '#menu', // Menu de navegación.
-		 anchors: ['inicio', 'promos','crew','playlist','contacto' ], // Anclas, las usamos para identificar cada seccion y poder acceder a ellas con el menu.
+		 anchors: ['Inicio','Promos','Crew','Playlist','Contacto'], // Anclas, las usamos para identificar cada seccion y poder acceder a ellas con el menu.
 		 navigationTooltips: ['Inicio','Promos','Crew','Playlist','Contacto'], // Tooltips que mostrara por cada boton.
 		 showActiveTooltip: false, // Mostrar tooltip activa.
 	// ──────────────────────────────────────────────────
