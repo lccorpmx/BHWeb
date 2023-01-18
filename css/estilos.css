@@ -331,3 +331,29 @@ i{
 .imgPopup{
     width: 100%;
 }
+
+img{
+    width: 100%;
+}
+
+.roww{
+    display: flex;
+    padding: 5px;
+    flex-wrap: wrap;
+    
+}
+
+.fondoPanal{
+    background-image: url("/Panal7.png");
+    background-size: 120%;
+}
+
+.colum{
+    flex: 50%;
+    padding: 6px;
+}
+
+.colum img{
+    margin-top: 5px;
+}
+
