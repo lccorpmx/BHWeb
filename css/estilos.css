@@ -346,6 +346,10 @@ img{
     background-image: url("/Panal7.png");
     background-size: 120%;
 }
+.galeryPapa{
+    width: 90%;
+    margin: auto;
+}
 
 .colum{
     flex: 0%;
