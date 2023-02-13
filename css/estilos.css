@@ -48,6 +48,10 @@ img{
     color: #fff;
 }
 
+.espacio{
+    padding-top: 10px;
+}
+
 h2{
     font-size: 40px;
     text-transform: uppercase;
@@ -237,9 +241,13 @@ i{
     padding: 10px;
 }
 .pt{
-    padding-top: 25px;
+    padding-top: 40px;
 }
 
+
+.mar{
+    margin: 0;
+}
 
 /* Style the Image Used to Trigger the Modal */
 #myImg {
