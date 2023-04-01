@@ -163,6 +163,10 @@ transition: .5s ease;
     justify-content: center;
     border-radius: 100px;
     margin: 15px 10px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
 }
 
 .footer .redes-sociales h3{
@@ -385,3 +389,49 @@ img{
         width: 50%;
     }
 }
+
+
+
+.catalogoN1{
+    background-image: url("/catalogo/cart97.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+.whatsapp-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #25D366;
+    color: white;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .whatsapp-button:hover {
+    transform: scale(1.1);
+  }
+  
+  .whatsapp-button i {
+    font-size: 60px;
+  }
+
+
+  .btnwa {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    margin: 20px;
+}
+
+  
