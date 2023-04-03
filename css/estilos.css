@@ -133,7 +133,7 @@ transition: .5s ease;
     display: grid;
     place-content: center;
     margin: 0;
-    font-size: 40px;
+    font-size: 30px;
     flex-direction: column;
     margin-top: 10px;
     
