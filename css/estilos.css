@@ -452,3 +452,31 @@ img{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.catalogoN6{
+    background-image: url("/catalogo/megatoke.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.catalogoN7{
+    background-image: url("/catalogo/preroll.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.catalogoN8{
+    background-image: url("/catalogo/cartcbd.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.catalogoN9{
+    background-image: url("/catalogo/dulces.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
