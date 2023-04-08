@@ -420,63 +420,63 @@ img{
 
   .catalogoN2{
     background-image: url("/catalogo/cart97.jpg");
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .catalogoN1{
     background-image: url("/catalogo/menuportada.jpg");
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .catalogoN3{
     background-image: url("/catalogo/cart92.jpg");
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .catalogoN4{
     background-image: url("/catalogo/cart85.jpg");
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .catalogoN5{
     background-image: url("/catalogo/pods.jpg");
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .catalogoN6{
     background-image: url("/catalogo/megatoke.jpg");
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .catalogoN7{
     background-image: url("/catalogo/preroll.jpg");
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .catalogoN8{
     background-image: url("/catalogo/cartcbd.jpg");
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .catalogoN9{
     background-image: url("/catalogo/dulces.jpg");
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
