@@ -481,6 +481,13 @@ img{
     background-repeat: no-repeat;
 }
 
+.catalogoN10{
+    background-image: url("/catalogo/accesorios.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 
 #contenedor-imagen {
     position: fixed;
