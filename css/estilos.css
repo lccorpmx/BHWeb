@@ -133,7 +133,7 @@ transition: .5s ease;
     display: grid;
     place-content: center;
     margin: 0;
-    font-size: 18px;
+    font-size: 15px;
     flex-direction: column;
     margin-top: 1px;
     
@@ -141,7 +141,7 @@ transition: .5s ease;
 
 .footer .redes-sociales a{
     display: flex;
-    height: 65px;
+    height: 60px;
     width: 225px;
     background: #fff;
     color: #000;
