@@ -505,6 +505,12 @@ img{
     background-repeat: no-repeat;
 }
 
+.catalogoN11{
+    background-image: url("/catalogo/ccellauto.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 
 #contenedor-imagen {
     position: fixed;
