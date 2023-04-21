@@ -533,23 +533,6 @@ img{
   }
   
 
-
-
-
-  .promo1{
-    background-image: url("/media/florbeehigh.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-.promo2{
-    background-image: url("/media/florflyer.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
 .promo3{
     background-image: url("/media/kitsinicioprecionormal.jpg");
     background-size: contain;
@@ -557,29 +540,18 @@ img{
     background-repeat: no-repeat;
 }
 
-.promo4{
-    background-image: url("/media/cuatroveinte.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-}
 
-.promo5{
-    background-image: url("/media/92pre.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-.promo6{
-    background-image: url("/media/85dulces.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-}
 
 .promo7{
     background-image: url("/media/menuportada.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.promo2{
+    background-image: url("/media/recargamuniciones.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
