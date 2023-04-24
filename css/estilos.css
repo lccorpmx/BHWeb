@@ -550,8 +550,43 @@ img{
 }
 
 
-.promo2{
-    background-image: url("/media/recargamuniciones.jpg");
+.promodia{
+    background-image: url("/media/recargadia.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.promo97{
+    background-image: url("/media/recarga97.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.promo975{
+    background-image: url("/media/recarga975.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.promo92{
+    background-image: url("/media/recarga92.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.promo85{
+    background-image: url("/media/recarga85.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.promo855{
+    background-image: url("/media/recarga855.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
