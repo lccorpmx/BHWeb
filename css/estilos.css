@@ -591,3 +591,17 @@ img{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.flor{
+    background-image: url("/media/florbeehigh.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.florv2{
+    background-image: url("/media/florflyer.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
