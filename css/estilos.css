@@ -605,3 +605,10 @@ img{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.carta{
+    background-image: url("/media/carta.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
