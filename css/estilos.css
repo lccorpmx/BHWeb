@@ -612,3 +612,18 @@ img{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.poddos{
+    background-image: url("/media/poddosg.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.org92{
+    background-image: url("/media/92organico.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
