@@ -572,7 +572,7 @@ img{
 }
 
 .promo92{
-    background-image: url("/media/SB92JE.jpg");
+    background-image: url("/media/SB92.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -580,6 +580,20 @@ img{
 
 .promo85{
     background-image: url("/media/SB85.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.kodo{
+    background-image: url("/media/kodoblack.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.promo972{
+    background-image: url("/media/SB972.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
