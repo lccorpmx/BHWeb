@@ -578,6 +578,13 @@ img{
     background-repeat: no-repeat;
 }
 
+.boni{
+    background-image: url("/media/sistemadebonificaciones.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 .promo85{
     background-image: url("/media/SB85.jpg");
     background-size: contain;
