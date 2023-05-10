@@ -592,6 +592,13 @@ img{
     background-repeat: no-repeat;
 }
 
+.bonii{
+    background-image: url("/media/cloack.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 .promo85{
     background-image: url("/media/SB85.jpg");
     background-size: contain;
