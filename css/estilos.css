@@ -592,6 +592,14 @@ img{
     background-repeat: no-repeat;
 }
 
+.mama{
+    background-image: url("/media/mama.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
 .clo{
     background-image: url("/media/cloack.jpg");
     background-size: contain;
