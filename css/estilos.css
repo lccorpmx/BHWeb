@@ -592,8 +592,8 @@ img{
     background-repeat: no-repeat;
 }
 
-.mama{
-    background-image: url("/media/mama.jpg");
+.peluche{
+    background-image: url("/media/peluche.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
