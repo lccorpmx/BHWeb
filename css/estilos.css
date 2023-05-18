@@ -678,3 +678,24 @@ img{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.bonique{
+    background-image: url("/media/dudasb.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bear{
+    background-image: url("/media/lokaahoso.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.nuevosdiam{
+    background-image: url("/media/diamnuevos.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
