@@ -686,6 +686,13 @@ img{
     background-repeat: no-repeat;
 }
 
+.osouzi{
+    background-image: url("/media/bearuzi.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 .bear{
     background-image: url("/media/lokaahoso.jpg");
     background-size: contain;
