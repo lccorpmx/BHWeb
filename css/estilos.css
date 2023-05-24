@@ -720,3 +720,11 @@ img{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+
+.cartpoddospre{
+    background-image: url("/media/podcartdospreroll.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
