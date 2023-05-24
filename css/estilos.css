@@ -708,7 +708,14 @@ img{
 }
 
 .nuevosdiam{
-    background-image: url("/media/diamnuevos.jpg");
+    background-image: url("/media/diamondpodscarts.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.wz{
+    background-image: url("/media/wzback.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
