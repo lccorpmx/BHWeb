@@ -735,3 +735,10 @@ img{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.torneocdmx{
+    background-image: url("/media/torneokario.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
