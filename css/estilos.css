@@ -742,3 +742,24 @@ img{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.b1{
+    background-image: url("/media/b1.jpeg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.b2{
+    background-image: url("/media/b2.jpeg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.b3{
+    background-image: url("/media/b3.jpeg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
