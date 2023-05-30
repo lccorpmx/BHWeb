@@ -763,3 +763,18 @@ img{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+
+.b5{
+    background-image: url("/media/b5.jpeg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.b6{
+    background-image: url("/media/b6.jpeg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
