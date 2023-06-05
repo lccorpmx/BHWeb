@@ -778,3 +778,11 @@ img{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+
+.ryan{
+    background-image: url("/media/ryan.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
