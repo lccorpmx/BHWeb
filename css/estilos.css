@@ -786,3 +786,11 @@ img{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+
+.colgantes{
+    background-image: url("/media/COLGANTES.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
