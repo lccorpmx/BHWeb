@@ -794,3 +794,17 @@ img{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.semanadiamante{
+    background-image: url("/media/semanadiamante.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.primercart{
+    background-image: url("/media/tuprimercart.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
