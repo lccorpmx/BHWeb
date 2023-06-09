@@ -808,3 +808,17 @@ img{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.bienvenidamint{
+    background-image: url("/media/mintbienvenida.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.kitdiamante{
+    background-image: url("/media/iniciodiamond.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
