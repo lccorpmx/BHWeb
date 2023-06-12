@@ -721,6 +721,12 @@ img{
     background-repeat: no-repeat;
 }
 
+.rifacloack{
+    background-image: url("/media/rifacloack.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 
 .cartpoddospre{
     background-image: url("/media/podcartdospreroll.jpg");
