@@ -650,6 +650,13 @@ img{
     background-repeat: no-repeat;
 }
 
+.ndnuevos{
+    background-image: url("/media/nuevos92.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 .flor{
     background-image: url("/media/florbeehighmamalona.jpg");
     background-size: contain;
