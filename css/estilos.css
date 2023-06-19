@@ -671,6 +671,13 @@ img{
     background-repeat: no-repeat;
 }
 
+.nuevedosaochocinco{
+    background-image: url("/media/92aprecio85.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 .carta{
     background-image: url("/media/carta.jpg");
     background-size: contain;
