@@ -678,6 +678,13 @@ img{
     background-repeat: no-repeat;
 }
 
+.doblep{
+    background-image: url("/media/kitdoblep.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 .carta{
     background-image: url("/media/carta.jpg");
     background-size: contain;
