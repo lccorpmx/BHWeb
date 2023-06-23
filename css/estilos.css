@@ -849,3 +849,44 @@ img{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+
+
+.sb97{
+    background-image: url("/media/SB97.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.sb85{
+    background-image: url("/media/SB85.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.sbdiamond{
+    background-image: url("/media/SBDIAMOND.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.sb97plus{
+    background-image: url("/media/SB97PLUS.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.sb92{
+    background-image: url("/media/SB92.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
