@@ -888,5 +888,23 @@ img{
 }
 
 
+.mamastrosito{
+    background-image: url("/media/mamastrosito.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.trinidad{
+    background-image: url("/media/trinidad.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
 
 
