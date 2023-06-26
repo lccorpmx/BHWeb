@@ -911,6 +911,20 @@ img{
     background-repeat: no-repeat;
 }
 
+.pareja{
+    background-image: url("/media/combopareja.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.cuates{
+    background-image: url("/media/combocuates.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 
 
 
