@@ -926,6 +926,14 @@ img{
     background-repeat: no-repeat;
 }
 
+.horno{
+    background-image: url("/media/hornodiamondcart.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
 
 
 
