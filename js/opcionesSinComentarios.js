@@ -9,7 +9,7 @@ var seccionesPagina = new fullpage('#fullpage', {
 	loopBottom: false,
 	navigation: true,
 	menu: '#menu',
-	anchors: ['inicio','promos' ,'galeria','Catálogo','crew','playlist','contacto'],
+	anchors: ['Inicio','Promos','Catálogo','Crew','Galeria','Playlist','Contacto'],
 	navigationTooltips: ['Inicio','promos','Catálogo','galeria','crew','playlist','Contacto'],
 	showActiveTooltip: false,
 	sectionsColor : ['#000', '#000', '#000','#000','#000', '#000', '#000'],
