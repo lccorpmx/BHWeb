@@ -926,13 +926,6 @@ img{
     background-repeat: no-repeat;
 }
 
-.horno{
-    background-image: url("/media/hornodiamondcart.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
 
 .dabcap{
     background-image: url("/media/dabcap.jpg");
@@ -949,6 +942,14 @@ img{
     background-repeat: no-repeat;
 }
 
+
+
+.horno{
+    background-image: url("/media/hornoprecio.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 
 
 
