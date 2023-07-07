@@ -955,6 +955,26 @@ img{
 
 
 
+.dulcesenvio{
+    background-image: url("/media/dulcesenvio.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+.bat710{
+    background-image: url("/media/baterias710.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
 
 
 
