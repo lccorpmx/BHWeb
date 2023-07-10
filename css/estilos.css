@@ -973,6 +973,23 @@ img{
 
 
 
+.trio{
+    background-image: url("/media/trio.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+.trinidaad{
+    background-image: url("/media/trinidad.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
 
 
 
