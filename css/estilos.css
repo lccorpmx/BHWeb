@@ -1015,6 +1015,15 @@ img{
 }
 
 
+.holykit{
+    background-image: url("/media/holykit.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
 
 
 
