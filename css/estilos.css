@@ -1037,6 +1037,16 @@ img{
     background-repeat: no-repeat;
 }
 
+.barbiehaze{
+    background-image: url("/media/barbiehaze.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
 
 
 
