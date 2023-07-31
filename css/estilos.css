@@ -1044,6 +1044,13 @@ img{
     background-repeat: no-repeat;
 }
 
+.kitgamer{
+    background-image: url("/media/kitgamer.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 
 
 
