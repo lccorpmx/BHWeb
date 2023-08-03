@@ -1052,6 +1052,13 @@ img{
 }
 
 
+.myster{
+    background-image: url("/media/myster.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 
 
 
