@@ -1060,6 +1060,13 @@ img{
 }
 
 
+.beeg{
+    background-image: url("/media/beegumies.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 
 
 
