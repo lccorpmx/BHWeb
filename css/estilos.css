@@ -1067,6 +1067,14 @@ img{
     background-repeat: no-repeat;
 }
 
+.back98{
+    background-image: url("/media/98back.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
 
 
 
