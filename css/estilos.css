@@ -1074,7 +1074,12 @@ img{
     background-repeat: no-repeat;
 }
 
-
+.kitholy{
+    background-image: url("/media/kitsholly.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 
 
 
