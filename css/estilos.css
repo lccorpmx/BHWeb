@@ -1088,6 +1088,22 @@ img{
     background-repeat: no-repeat;
 }
 
+.kccell{
+    background-image: url("/media/KITCCELL.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.kpro{
+    background-image: url("/media/kitPro.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
 
 
 
