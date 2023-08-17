@@ -1103,6 +1103,14 @@ img{
 }
 
 
+.loops{
+    background-image: url("/media/loops.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
 
 
 
