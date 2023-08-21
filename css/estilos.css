@@ -1111,6 +1111,13 @@ img{
 }
 
 
+.frutas{
+    background-image: url("/media/frutas98.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 
 
 
