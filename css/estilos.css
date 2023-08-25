@@ -1119,6 +1119,16 @@ img{
 }
 
 
+.taylor{
+    background-image: url("/media/taylor.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
 
 
 
