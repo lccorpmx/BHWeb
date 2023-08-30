@@ -956,7 +956,7 @@ img{
 
 
 .dulcesenvio{
-    background-image: url("/media/dulcesenvio.jpg");
+    background-image: url("/media/beegumies.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -1060,12 +1060,7 @@ img{
 }
 
 
-.beeg{
-    background-image: url("/media/beegumies.jpg");
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
-}
+
 
 .back98{
     background-image: url("/media/98back.jpg");
