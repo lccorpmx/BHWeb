@@ -1123,6 +1123,13 @@ img{
 
 
 
+.gaming{
+    background-image: url("/media/gaming.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 
 
 
