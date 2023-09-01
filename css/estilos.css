@@ -1137,6 +1137,12 @@ img{
     background-repeat: no-repeat;
 }
 
+.ch{
+    background-image: url("/media/COOKIEHOUR.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 
 
 
