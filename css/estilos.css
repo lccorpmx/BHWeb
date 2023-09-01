@@ -1130,6 +1130,13 @@ img{
     background-repeat: no-repeat;
 }
 
+.dianoche{
+    background-image: url("/media/dianoche.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 
 
 
