@@ -1145,6 +1145,12 @@ img{
 }
 
 
+.refil{
+    background-image: url("/media/refil.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 
 
 
