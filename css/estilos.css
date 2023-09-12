@@ -1169,6 +1169,13 @@ img{
 }
 
 
+.living{
+    background-image: url("/media/florliving.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 
 
 
