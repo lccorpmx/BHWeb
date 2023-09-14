@@ -1177,6 +1177,16 @@ img{
 }
 
 
+.patrio{
+    background-image: url("/media/patrio.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
 
 
 
