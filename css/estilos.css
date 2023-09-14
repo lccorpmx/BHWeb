@@ -1192,6 +1192,22 @@ img{
     background-repeat: no-repeat;
 }
 
+.mex{
+    background-image: url("/media/kitmex.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
