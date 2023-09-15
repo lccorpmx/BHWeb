@@ -1199,6 +1199,20 @@ img{
     background-repeat: no-repeat;
 }
 
+.solout{
+    background-image: url("/media/soldout.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.aviso{
+    background-image: url("/media/AVISO.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 
 
 
